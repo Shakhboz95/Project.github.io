@@ -1,0 +1,222 @@
+---------------------PC & Laptop---------------------
+
+Ideapad Y700(14")	starting at $679.00
+* 6th generation Intel(R) core(tm) i5 processor
+* Windows 10
+* 14" Full HD(1920x1080), anti glare display with integrated camera
+* 8GB DDR4 memory
+* 1TB HDD 128GB SSD
+* AMD Radeon R9 graphics
+
+Yoga 900 series 	starting at $999.99
+* 6th generation Intel(R) core(tm) M7 processor
+* Windows 10
+* 12.5" display,QHD(2560x1440) with IDS technology
+* 8GB LPDDR3 memory
+* 256GB PCLe SSD storage 
+* Integrated Intel(R) HD Graphics
+
+Lenovo M800z	starting at $584.10
+* 6th generation Intel(R) core(tm) i7 processor
+* Windows 10
+* 21.5" FHD(1920x1080),LED backlit LCD display with optional touchscreen
+* 16GB DDR4 memory
+* 256GB SSD, 500GB SATA HDD, 180GB OPAL SSD 
+* Intel(R) HD Graphics 
+
+OMEN Laptop-15t gaming UHD	starting at $1249.99
+* 6th generation Intel(R) core(tm) i7 processor
+* Windows 10
+* 15.6" diagonal UHD IPS UWVA anti-glare WLED-backlit(3840x2160)
+* 16GB DDR4 memory
+* 2TB 5400 rpm SATA, 128GB SSD
+* NVIDIA(R) GeForce(R) GTX 965 M graphics
+
+HP250 G5 NoteBook PC	starting at $549.00
+* 6th generation Intel(R) core(tm) i5 processor
+* Windows 10
+* 15.6" diagonal HD SVA, anti-glare slim LED-backlit(1366x768)
+* 4GB DDR3L-1600 SDRAM
+* 500GB 7200rpm SATA
+* Intel(R) HD graphics 5500
+
+HP All-in-one-Desktop-24-g010z	starting at $529.99
+* AMD A6 Quad-core Processor
+* Windows 10
+* 23.8" Full HD(1920x1080)2BD WLED Antiglare
+* 8GB DDR3 memory
+* 1TB HDD storage
+* Integrated Radeon(TM) R4 Graphics
+
+DELL XPS13	starting at $799.99
+* 7th generation Intel(R) core(tm) i3-700u processor
+* Windows 10
+* 13..3" Full HD(1920x1080), infinity Edge display
+* 4GB LPDDR3 1866MHZ
+* 128GB Solid State Drive
+* Intel(R) HD graphics
+
+Asus N750JK 	starting at $655.49
+* 6th generation Intel(R) core(tm) i7 processor
+* Windows 10
+* 17.3" Full HD(1920x1080), Backlit Non-Glare LCD Panel
+* 4GB DDR3L memory
+* 1600 MHZ SDRAM
+* Integrated Intel(R) HD Graphics
+
+New AlienWare13  	starting at $999.99
+* 7th generation Intel(R) core(tm) i5-7300HQ processor
+* Windows 10
+* 13.3" HD(1366x768)TN, Anti-Glare
+* 8GB DDR4 memory
+* 180GB M2 SATA 6GB SSD
+* NVIDIA(R) GeForce(R) GTX 1050 with 2GB GDDR5
+---------------------PC & Laptop---------------------
+---------------------Accessory---------------------
+
+Lenovo Gaming Mechanical Keyboard	$139.99
+* Connector type Wireless
+* Color Black
+* Warranty 1year
+
+Lenovo Yoga Mouse	$69.99
+* Connector type Wireless
+* Color Black
+* Number of buttons 4
+* Warranty 1year
+
+HP 15.6 Backpack	$79.00
+* Compability NoteBooks up to 15.6"
+* Color Brown
+* Warranty 1year
+
+Lenovo 15.6" On-Trend Topload by NAVA	$27.99
+* Campability NoteBook up 15.6
+* Color gray
+* Warranty 1year
+
+Y Gaming Stereo Headset 	$49.99
+* Color Red&Black
+* Weight 0.6lbs 
+* Warranty 1year
+
+Beats Solo3 	$299.95
+* Connector type Wireless
+* Color Black
+* 40 hours battery life
+
+Beats EP 	$99.95
+* Connector type Wire
+* Color Black
+* Warranty 1year
+
+Beats X 	$149.95
+* Connector type Wireless
+* Color Black
+* 8hours battery life
+---------------------Accessory---------------------
+---------------------Tablet---------------------
+
+Tab2 A10-30	$129.99
+* Android 4.4 KitKat
+* 10.1" IPS LED LCD Touch 1920x1200
+* 2.0 GB PC3-14900R DDR3 
+* 16GB Storage 
+* 10 hours battery life
+
+Galaxy TabS2	$499.99
+* Android 6.0 Marshmallow
+* 9.7" Super AMOLED 2048x1536
+* Octa-core APQ8076
+* 3GB RAM
+* 32GB ROM
+
+Galaxy TabA	$384.00
+* Android 6.0 Marshmallow
+* 10.1" PLS LCD 1920x1200
+* MSM 8953, Octa-Core 
+* 2GB RAM
+* 16GB ROM
+
+Jumper EZ pad 5SE	$227.15
+* Intel Cherry Trail x5-z8300 quad core
+* 10.6" Capacitive Screen 1920x1080
+* 4GB RAM
+* 64GB ROM
+
+Huawei MediaPad M3	$301.26
+* Android 6.0 Marshmallow
+* 8.4" (2560x1600) 
+* 4GB RAM
+* 32GB ROM
+
+Hiaomi MiPad2	$232.05
+* Android 5.1
+* 7.9" (2048x1536) 
+* 2GB RAM
+* 64GB ROM
+
+Chuwi Hi10 	$220.79
+* Android5.1 and Windows 10  Quad core
+* Intel Hd graphics, Generation 8 processor 
+* 10.1" (1920x1200) 
+* 4GB LPDDR3
+* 64GB ROM
+
+YunTab 7	$106.99
+* Android 5.1 QuadCore
+* 7" (1024x600) 
+* 1GB RAM
+* 8GB ROM
+---------------------Tablet---------------------
+---------------------Mobile Phone---------------------
+
+Galaxy S8	$750.00
+* Android 7.0 Nougat
+* 5.8" full rectangle 2960x1440
+* Octa Core(2.35GHz Quad + 1.9 GHz Quad)
+* 64GB Memory
+
+Huawei G9	$170.58
+* Android
+* 5.2"  1920x1080
+* Dual sim cards 
+* 3GB RAM
+* 16GB ROM
+
+Galaxy J5	$
+* Android
+* 5.2" Super AMOLED 1280x720
+* 2GB RAM
+* 16GB ROM
+
+Galaxy J3	$255.00
+* Android 5.1.1
+* 5.0" sAMOLED 720x1280HD
+* 1.2GHz Quad A7 
+* 16GB eMMC+1.5GB LPDDR3 RAM
+
+Apple iPhone7	$836.42
+* IOS
+* 5.5" 1920x1080
+* 3GB RAM
+* 32GB ROM
+
+HTC ONE M9 	$182.11
+* Android
+* 5.0" 1920x1080
+* 3GB RAM
+* 32GB ROM
+
+Lenovo k10E70  	$94.99
+* Android
+* 5" 1280x720
+* 2GB RAM
+* 16GB ROM
+
+LG g4	$127.19
+* Android
+* 5.5"  2560x1440
+* 3GB RAM
+* 32GB ROM
+---------------------Mobile Phone---------------------

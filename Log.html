@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+
+<link rel="stylesheet" type="text/css" href="sign.css">
+
+	<title>Login</title>
+</head>
+<body>
+
+ <header>
+
+
+<div id="border1">
+
+<h1>Sign Up</h1>
+<form action="SignIn.php" method="POST">
+<fieldset>
+
+
+		<input type="text" name="name" placeholder="Enter your name" required
+
+
+		 pattern="[a-z]{1,10}" 
+		 title="Name should contain only lowercase letters">
+
+
+		  <br/><input type="email" name="mail" placeholder="Enter your mail" required>
+		  
+<br/>
+		<input type="password" name="pass" placeholder="Enter your password" required="required" 
+
+
+		title="Write more than 5 character"
+		 pattern="[a-zA-Z0-9]{5,}">
+		 
+
+<br/>
+		<input type="password" name="pass2" placeholder="Confirm password" required>
+		<br/>
+		<input type="submit" name="btn" value="Sign Up">
+
+	</fieldset>
+	</form>
+</div>
+
+
+
+<div id="border2">
+
+<h1>Login</h1>
+<form action="LogIn.php" method="POST" >
+<fieldset>
+
+		<input type="text" name="name" placeholder="Username" required>
+          <br/>
+		<input type="password" name="pass" placeholder="Enter your password" required >		
+<br/>
+		<input type="submit" name="Log_btn" value="Log In">
+
+</fieldset>	</form>
+
+</div>
+</body>
+</html>

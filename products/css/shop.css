@@ -1,0 +1,215 @@
+body
+{
+	background-color:#E6E6E6;
+	font-family:helvetica;
+	margin:0px auto;
+	padding:0px;
+}
+
+#cart_button
+{
+	margin-top:20px;
+	margin-left:80px;
+	cursor:pointer;
+}
+#cart_button img
+{
+	width:40px;
+	height:40px;
+}
+#cart_button #cart input[type="submit"]
+{
+	background:none;
+	border:none;
+	background-color:red;
+	border-radius:100%;
+	height:30px;
+	width:30px;
+	margin-top:0px;
+	color:white;
+	font-size:17px;
+	cursor:pointer;
+}
+#mycart
+{
+	display:none;
+	background-color:white;
+	width:800px;
+	margin-left:100px;
+}
+#mycart .cart_items
+{
+	border-bottom:1px dashed silver;
+	padding:20px;
+	padding-left:10px;
+}
+#mycart .cart_items img
+{
+	width:70px;
+	height:50px;
+	float:left;
+}
+#mycart .cart_items p
+{
+	margin:0px;
+	font-size:17px;
+	color:green;
+}
+h1
+{
+	
+	font-family: "Segoe UI Web Light", "Segoe UI Light", "Segoe UI Web Regular", "Segoe UI", "Segoe UI Symbol", "Helvetica Neue", Arial;
+	font-size: 2em;
+	color: #222;
+	text-align: center;
+	margin: 40px;
+}
+#item_div
+{
+	float:left;
+	margin-left:60px;
+	display: inline;
+
+}
+.items
+{
+	padding:20px;
+	background-color:white;
+	width:250px;
+	height:350px;
+	margin-top:20px;
+	box-shadow:0px 0px 10px 0px #A4A4A4;
+	box-sizing:border-box;
+	float:left;
+	margin:20px;
+	position:relative;
+    background: #fff;
+    border-radius: 5px;
+    border-top: 10px solid #255675;
+    
+}
+.items:hover input[type="submit"]
+{
+	display:block;
+}
+.items input[type="submit"]
+{
+	display:none;
+	background:none;
+	background-color:#406e8c;
+	border-radius: 5px;
+	width:200px;
+	height:50px;
+	border:none;
+	font-size:20px;
+	color:white;
+	position:absolute;
+	top:150px;
+	left:20px;
+	cursor:pointer;
+}
+.items input[type="submit"]:hover{
+	opacity: 0.8;
+}
+.items img
+{
+	width:200px;
+	height:200px;
+}
+.items p
+{
+	color: green;
+}
+a{
+	text-decoration: none;
+}
+
+button {
+    background-color: #406e8c;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-top: -40px;
+    margin-left: 150px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.cancelbtn {
+    background-color: #406e8c;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    float: left;
+    border: none;
+    cursor: pointer;
+    width: auto;
+}
+.cancelbtn:hover {
+    opacity: 0.8;
+}
+
+.container {
+    padding: 16px;
+}
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
+    padding-top: 60px;
+
+}
+
+.modal p{
+	padding: 20px;
+	color: #26465b;
+	text-align: center;
+	font-family: Arial;
+}
+
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; 
+  	border-radius: 10px; 
+    width: 320px; 
+    height: 380px;
+    }
+
+.animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)} 
+    to {-webkit-transform: scale(1)}
+}
+    
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+}
